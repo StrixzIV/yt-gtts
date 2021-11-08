@@ -4,6 +4,7 @@
 
 อย่าลืมกดซับยูทูปผมด้วย !!! : https://www.youtube.com/channel/UCGNe0bKHgqHd4aiH2yPKIHA
 
+Language code ของแต่ละภาษา(เอาแค่ 2 หลักแรก): https://cloud.google.com/text-to-speech/docs/voices
 
 ## Setup
 
